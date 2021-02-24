@@ -10,4 +10,4 @@
 [CLICK ME](shahinuralambhuiyan.github.io/surah-player/index.html)
 
 ## Let's take a look!
-![alt text](images/site-ss.jpg)
+![alt text](img/site-ss.jpg)
